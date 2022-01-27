@@ -34,3 +34,5 @@ public class Node {
 		this.next = next;
 	}
 }
+
+//Wszystkie settery sa uzywane, wiec nie mozna zadnego usunac
