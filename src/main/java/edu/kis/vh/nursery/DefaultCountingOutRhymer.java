@@ -36,6 +36,8 @@ public class DefaultCountingOutRhymer {
         return numbers[total--];
     }
 
+
+    //TODO: potrzebne poprawki - funkcja getTotal() jest nieuzywana
     public int getTotal() {
         return total;
     }
