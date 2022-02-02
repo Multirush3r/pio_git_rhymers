@@ -4,6 +4,14 @@ import edu.kis.vh.nursery.DefaultCountingOutRhymer;
 import edu.kis.vh.nursery.FIFORhymer;
 import edu.kis.vh.nursery.HanoiRhymer;
 
+
+/**
+ * Klasa implementuje interfejs RhymersFactory i zawiera gettery zwracajace nowe obiekty klas:
+ * DefaultCountingOutRhymer,
+ * DefaultCountingOutRhymer,
+ * FIFORhymer,
+ * HanoiRhymer
+ */
 public class DefaultRhymersFactory implements RhymersFactory {
 
 	@Override
