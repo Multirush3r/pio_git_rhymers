@@ -12,6 +12,8 @@ import edu.kis.vh.nursery.HanoiRhymer;
  * FIFORhymer,
  * HanoiRhymer
  */
+
+//TODO: wymagane poprawki - funkcje getStandardRhymer() i getFalseRhymer() zwracaja ten sam obiekt
 public class DefaultRhymersFactory implements RhymersFactory {
 
 	@Override
